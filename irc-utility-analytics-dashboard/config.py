@@ -21,7 +21,7 @@ AUTO_REFRESH_SECONDS = 30
 
 # Password protection.
 # Change this before deploying, or set APP_PASSWORD in Streamlit Cloud Secrets.
-APP_PASSWORD = "ChangeMeUtility2026!"
+APP_PASSWORD = "PlumCt_2212_0285"
 
 # Alert thresholds.
 WARNING_THRESHOLD = 10.0
